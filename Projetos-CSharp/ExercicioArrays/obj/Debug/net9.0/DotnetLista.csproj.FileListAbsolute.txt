@@ -1,0 +1,14 @@
+C:\Users\felip\DotnetLista\bin\Debug\net9.0\DotnetLista.exe
+C:\Users\felip\DotnetLista\bin\Debug\net9.0\DotnetLista.deps.json
+C:\Users\felip\DotnetLista\bin\Debug\net9.0\DotnetLista.runtimeconfig.json
+C:\Users\felip\DotnetLista\bin\Debug\net9.0\DotnetLista.dll
+C:\Users\felip\DotnetLista\bin\Debug\net9.0\DotnetLista.pdb
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.AssemblyInfoInputs.cache
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.AssemblyInfo.cs
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.csproj.CoreCompileInputs.cache
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.dll
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\refint\DotnetLista.dll
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.pdb
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\DotnetLista.genruntimeconfig.cache
+C:\Users\felip\DotnetLista\obj\Debug\net9.0\ref\DotnetLista.dll

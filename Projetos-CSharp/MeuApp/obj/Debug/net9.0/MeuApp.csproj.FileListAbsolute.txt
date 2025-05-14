@@ -1,0 +1,14 @@
+C:\Users\felip\MeuApp\bin\Debug\net9.0\MeuApp.exe
+C:\Users\felip\MeuApp\bin\Debug\net9.0\MeuApp.deps.json
+C:\Users\felip\MeuApp\bin\Debug\net9.0\MeuApp.runtimeconfig.json
+C:\Users\felip\MeuApp\bin\Debug\net9.0\MeuApp.dll
+C:\Users\felip\MeuApp\bin\Debug\net9.0\MeuApp.pdb
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfo.cs
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.dll
+C:\Users\felip\MeuApp\obj\Debug\net9.0\refint\MeuApp.dll
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.pdb
+C:\Users\felip\MeuApp\obj\Debug\net9.0\MeuApp.genruntimeconfig.cache
+C:\Users\felip\MeuApp\obj\Debug\net9.0\ref\MeuApp.dll

@@ -1,0 +1,14 @@
+C:\Users\felip\ParabensMamae\bin\Debug\net9.0\ParabensMamae.exe
+C:\Users\felip\ParabensMamae\bin\Debug\net9.0\ParabensMamae.deps.json
+C:\Users\felip\ParabensMamae\bin\Debug\net9.0\ParabensMamae.runtimeconfig.json
+C:\Users\felip\ParabensMamae\bin\Debug\net9.0\ParabensMamae.dll
+C:\Users\felip\ParabensMamae\bin\Debug\net9.0\ParabensMamae.pdb
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.AssemblyInfoInputs.cache
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.AssemblyInfo.cs
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.csproj.CoreCompileInputs.cache
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.dll
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\refint\ParabensMamae.dll
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.pdb
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ParabensMamae.genruntimeconfig.cache
+C:\Users\felip\ParabensMamae\obj\Debug\net9.0\ref\ParabensMamae.dll

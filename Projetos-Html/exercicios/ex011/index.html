@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../ex004/favicon.ico" type="image/x-icon">
+    <title>Imagens Dinânimicas</title>
+</head>
+<body>
+    <h1>Imagens Adptadoras</h1>
+    <hr>
+    <p>Tente abrir esse site em vários dispositivo diferentes ou simplesmente aumente e diminua o tamanho do seu navegador</p>
+    <picture>
+        <source media="(max-width:750px )" srcset="imagem/foto-p.png" type="image/png">
+        <source media="(max-width:1050px )" srcset="imagem/foto-m.png" type="image/png">
+        <img src="imagem/foto-g.png" alt="imagem flexivel">
+    </picture>
+    <h1>Reproduzindo áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <audio preload="metadata" autoplay controls loop>
+        <source src="audio/bump - bap.mp3" type="audio/mpeg">
+        <source src="audio/bump - bap.mp3" type="audio/ogg">
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="audio/bump - bap.mp3">clique aqui para baixar o arquivo MP3</a></p>
+    </audio>
+</body>
+</html>

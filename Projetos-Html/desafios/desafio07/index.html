@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../desafio02/favicon.ico" type="image/x-icon">
+    <title>Imagem Flexivel</title>
+</head>
+<body>
+    <h1>Desafio da imagem Flexivel</h1>
+    <hr>
+    <p>Ea pequeno gafanhoto, consegue resolver esse problema do tamanho das imagens ?</p>
+    <hr>
+    <picture>
+        <source media="(max-width:790px )" srcset="imagem/paisagem-p.png" type="image/png">
+        <source media="(max-width:1250px )" srcset="imagem/paisagem-m.png" type="image/png">
+        <img src="imagem/paisagem-g.png" alt="Imagem Flexivel">
+    </picture>
+</body>
+</html>
