@@ -1,0 +1,14 @@
+C:\Users\felip\ProjetoSinaleira\bin\Debug\net9.0\ProjetoSinaleira.exe
+C:\Users\felip\ProjetoSinaleira\bin\Debug\net9.0\ProjetoSinaleira.deps.json
+C:\Users\felip\ProjetoSinaleira\bin\Debug\net9.0\ProjetoSinaleira.runtimeconfig.json
+C:\Users\felip\ProjetoSinaleira\bin\Debug\net9.0\ProjetoSinaleira.dll
+C:\Users\felip\ProjetoSinaleira\bin\Debug\net9.0\ProjetoSinaleira.pdb
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.AssemblyInfoInputs.cache
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.AssemblyInfo.cs
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.csproj.CoreCompileInputs.cache
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.dll
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\refint\ProjetoSinaleira.dll
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.pdb
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ProjetoSinaleira.genruntimeconfig.cache
+C:\Users\felip\ProjetoSinaleira\obj\Debug\net9.0\ref\ProjetoSinaleira.dll
