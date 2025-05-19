@@ -1,0 +1,14 @@
+C:\Users\felip\AlertaAlagamento\bin\Debug\net9.0\AlertaAlagamento.exe
+C:\Users\felip\AlertaAlagamento\bin\Debug\net9.0\AlertaAlagamento.deps.json
+C:\Users\felip\AlertaAlagamento\bin\Debug\net9.0\AlertaAlagamento.runtimeconfig.json
+C:\Users\felip\AlertaAlagamento\bin\Debug\net9.0\AlertaAlagamento.dll
+C:\Users\felip\AlertaAlagamento\bin\Debug\net9.0\AlertaAlagamento.pdb
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.AssemblyInfoInputs.cache
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.AssemblyInfo.cs
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.csproj.CoreCompileInputs.cache
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.dll
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\refint\AlertaAlagamento.dll
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.pdb
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\AlertaAlagamento.genruntimeconfig.cache
+C:\Users\felip\AlertaAlagamento\obj\Debug\net9.0\ref\AlertaAlagamento.dll

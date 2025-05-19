@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AlertaAlagamento/1.0.0": {
+        "runtime": {
+          "AlertaAlagamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlertaAlagamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
