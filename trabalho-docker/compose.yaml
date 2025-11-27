@@ -1,0 +1,13 @@
+services:
+  # Serviço do nosso App
+  meu-app-web:
+    build: .
+    container_name: container-do-trabalho
+    ports:
+      - "8080:3000" # Mapeia a porta 8080 do PC para a 3000 do container
+    networks:
+      - minha-rede
+
+networks:
+  minha-rede:
+    driver: bridge
